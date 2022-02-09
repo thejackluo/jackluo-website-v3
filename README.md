@@ -1,2 +1,5 @@
 # jackluo-website-template
- Website Template with Bootstrap, JQuery, FontAwesome, Normalize
+
+This is a personal website created by Jack Luo.
+
+The website will be open source.
